@@ -33,6 +33,7 @@ A curated list of awesome large AI models in audio signal processing, inspired b
 
 # Survey Papers
 
+**Challenges and opportunities of generative artificial intelligence models in audio/acoustic domain: a comprehensive survey** [2026].<br> Sayanton Dibbo, Sudip Vhaduri, Chia-Hua Lin <br>[[PDF](https://link.springer.com/content/pdf/10.1007/s10462-026-11670-y_reference.pdf))]<br>
 **A review of deep learning techniques for speech processing** [2023].<br> Ambuj Mehrish, Navonil Majumder, Rishabh Bharadwaj, Rada Mihalcea, Soujanya Poria <br>[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1566253523001859)]<br>
 **A survey on deep reinforcement learning for audio-based applications** [2023]. <br> Latif, Siddique and Cuayáhuitl, Heriberto and Pervez, Farrukh and Shamshad, Fahad and Ali, Hafiz Shehbaz and Cambria, Erik <br>[[PDF](https://link.springer.com/article/10.1007/s10462-022-10224-2)]<br>
 **A Survey of Large Language Models** [2023]. <br> Wayne Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong, Yifan Du, Chen Yang, Yushuo Chen, Zhipeng Chen, Jinhao Jiang, Ruiyang Ren, Yifan Li, Xinyu Tang, Zikang Liu, Peiyu Liu, Jian-Yun Nie, Ji-Rong Wen <br>[[PDF](https://arxiv.org/abs/2303.18223)] <br>
